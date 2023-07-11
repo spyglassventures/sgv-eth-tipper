@@ -49,8 +49,9 @@ Debugging / Development
 --------------------------------------
 - Material Icon Them to see fancy folder symbols
 
-
-
+How it looks:
+-------------------------------------
+![Alt text](image.png)
 
 ToDo:
 -------------------------------------
